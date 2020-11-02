@@ -55,4 +55,4 @@ steps:
     pswd: $(dockerPassword)
   displayName: 'Build and push Docker'
   
-- task: PublishBuildArtifacts@1
+
